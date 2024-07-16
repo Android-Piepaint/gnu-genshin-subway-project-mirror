@@ -1,0 +1,5 @@
+summon armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["north-psd"],Passengers:[{id:"minecraft:falling_block",BlockState:{Name:"minecraft:glass_pane",Properties:{north:"true",south:"true"}},NoGravity:1b,Time:-999999999,DropItem:0b,Tags:["north-psd"]}]}
+execute positioned ~ ~ ~1 run summon armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["south-psd"],Passengers:[{id:"minecraft:falling_block",BlockState:{Name:"minecraft:glass_pane",Properties:{north:"true",south:"true"}},NoGravity:1b,Time:-999999999,DropItem:0b,Tags:["south-psd"]}]}
+fill ~ ~ ~ ~ ~ ~1 air
+execute as @e[tag=north-psd,type=minecraft:armor_stand] at @s unless score @s PSD-Timer matches -2..200 run scoreboard players set @s PSD-Timer 200
+execute as @e[tag=south-psd,type=minecraft:armor_stand] at @s unless score @s PSD-Timer matches -2..200 run scoreboard players set @s PSD-Timer 200
