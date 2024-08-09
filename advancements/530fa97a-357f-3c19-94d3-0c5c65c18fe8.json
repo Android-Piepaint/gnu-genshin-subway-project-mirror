@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2023-01-20 06:48:00 +0800"
@@ -29,24 +23,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2023-01-20 12:52:45 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2023-01-20 06:48:00 +0800"
@@ -65,28 +41,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sunflower_plains": "2023-01-20 06:51:19 +0800",
-      "minecraft:birch_forest": "2023-01-20 12:59:54 +0800",
-      "minecraft:river": "2023-01-20 06:49:30 +0800",
-      "minecraft:cold_ocean": "2023-01-20 13:01:15 +0800",
-      "minecraft:forest": "2023-01-20 06:48:01 +0800",
-      "minecraft:deep_cold_ocean": "2023-01-20 13:07:30 +0800",
-      "minecraft:ocean": "2023-01-20 13:01:28 +0800",
-      "minecraft:flower_forest": "2023-01-20 06:49:50 +0800",
-      "minecraft:old_growth_birch_forest": "2023-01-20 12:57:40 +0800",
-      "minecraft:meadow": "2023-01-20 12:52:52 +0800",
-      "minecraft:plains": "2023-01-20 06:49:01 +0800"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2023-01-20 06:48:00 +0800"
@@ -96,12 +50,6 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2023-01-20 12:52:45 +0800"
     },
     "done": true
   },
@@ -123,18 +71,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2023-01-20 06:49:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_chiseled_quartz_block": "2023-01-20 06:48:00 +0800"
@@ -147,39 +83,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-01-20 06:49:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2023-01-20 06:49:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2023-01-20 06:49:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2023-01-20 06:49:35 +0800"
     },
     "done": true
   },
@@ -195,27 +101,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2023-01-20 06:49:35 +0800"
     },
     "done": true
   },
@@ -225,27 +113,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2023-01-20 12:52:45 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
     },
     "done": true
   },
@@ -267,12 +137,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2023-01-20 06:48:00 +0800"
@@ -282,36 +146,6 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_chiseled_quartz_block": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2023-01-20 06:49:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2023-01-20 13:01:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
     },
     "done": true
   },
@@ -327,23 +161,107 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2023-01-20 13:01:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-01-20 06:48:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2023-01-20 06:48:00 +0800"
     },
     "done": true
   },
-  "DataVersion": 3120
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2023-01-20 13:01:15 +0800",
+      "minecraft:flower_forest": "2023-01-20 06:49:50 +0800",
+      "minecraft:old_growth_pine_taiga": "2024-07-31 19:58:44 +0800",
+      "minecraft:forest": "2023-01-20 06:48:01 +0800",
+      "minecraft:taiga": "2024-07-31 19:58:45 +0800",
+      "minecraft:river": "2023-01-20 06:49:30 +0800",
+      "minecraft:deep_cold_ocean": "2023-01-20 13:07:30 +0800",
+      "minecraft:old_growth_birch_forest": "2023-01-20 12:57:40 +0800",
+      "minecraft:ocean": "2023-01-20 13:01:28 +0800",
+      "minecraft:sunflower_plains": "2023-01-20 06:51:19 +0800",
+      "minecraft:meadow": "2023-01-20 12:52:52 +0800",
+      "minecraft:birch_forest": "2023-01-20 12:59:54 +0800",
+      "minecraft:plains": "2023-01-20 06:49:01 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-01-20 06:49:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-01-20 06:49:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-01-20 06:49:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-01-20 06:49:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-01-20 06:49:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-20 06:49:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-20 06:49:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-01-20 12:52:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-01-20 12:52:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2023-01-20 12:52:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-01-20 13:01:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-01-20 13:01:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-31 19:58:10 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
 }
