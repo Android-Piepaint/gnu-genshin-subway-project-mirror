@@ -1,0 +1,1 @@
+execute as @s[scores={nbs_yourdoorwa=141120..141360,nbs_yourdoorwa_t=..1763}] run function your_door_was_locked_2:notes/1764

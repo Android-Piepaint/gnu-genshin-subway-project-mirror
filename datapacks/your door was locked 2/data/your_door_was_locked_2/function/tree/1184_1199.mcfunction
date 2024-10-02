@@ -1,0 +1,2 @@
+execute as @s[scores={nbs_yourdoorwa=94720..95520}] run function your_door_was_locked_2:tree/1184_1191
+execute as @s[scores={nbs_yourdoorwa=95360..96240}] run function your_door_was_locked_2:tree/1192_1199
