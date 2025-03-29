@@ -1,1 +1,0 @@
-give @p minecraft:command_block{BlockEntityTag:{Command:"function ftmc:bcartv2/builder/wild_startcb/v2_2/regular/put",auto:1},display:{Name:"{\"text\":\"High-speed Mode Command (Regular - v2.2)\",\"color\":\"green\"}",Lore:["\"高速模式指令 (v2.2)\"","\"標準型\"","\"Acceleration: 4 km/h/s\""]}}

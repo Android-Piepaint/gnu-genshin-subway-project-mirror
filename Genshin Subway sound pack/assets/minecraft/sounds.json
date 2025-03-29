@@ -1,5 +1,9 @@
 {
 "gemc.test": {"sounds": ["gemc/test/test"], "stream": true},
 "gemc.test.cn": {"sounds": ["gemc/test/test_cn"], "stream": true},
-"gemc.warn": {"sounds": ["gemc/misc_voice/warn"], "stream": true}
+"gemc.warn": {"sounds": ["gemc/misc_voice/warn"], "stream": true},
+"gemc.shoproom": {"sounds": ["gemc/music/your_door_was_locked"], "stream": true},
+"gemc.depart": {"sounds": ["gemc/music/depart/Isekai"], "stream": true},
+"gemc.depot": {"sounds": ["gemc/music/depot"], "stream": true},
+"gemc.depot.inside": {"sounds": ["gemc/music/depot_inside"], "stream": true}
 }

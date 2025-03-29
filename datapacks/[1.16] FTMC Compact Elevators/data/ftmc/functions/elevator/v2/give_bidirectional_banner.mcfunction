@@ -1,1 +1,0 @@
-give @p minecraft:green_banner{BlockEntityTag:{Patterns:[{Color:14,Pattern:"gru"},{Color:0,Pattern:"mr"},{Color:12,Pattern:"ms"}]},display:{Name:"{\"text\":\"Bidirectional Indicator\",\"color\":\"gold\"}"}}
